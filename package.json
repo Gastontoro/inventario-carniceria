@@ -10,22 +10,22 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "react-router-dom": "^7.9.3"
+    "bootstrap": "^5.3.3",            
+    "firebase": "^10.12.2",           
+    "react": "^18.2.0",               
+    "react-bootstrap": "^2.10.2",     
+    "react-dom": "^18.2.0",           
+    "react-router-dom": "^6.23.1",    
+    "react-hook-form": "^7.51.5",     
+    "yup": "^1.4.0"                  
   },
   "devDependencies": {
-    "@eslint/js": "^9.36.0",
-    "@types/react": "^19.1.13",
-    "@types/react-dom": "^19.1.9",
-    "@vitejs/plugin-react": "^5.0.3",
-    "eslint": "^9.36.0",
-    "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.20",
-    "globals": "^16.4.0",
-    "vite": "npm:rolldown-vite@7.1.12"
-  },
-  "overrides": {
-    "vite": "npm:rolldown-vite@7.1.12"
+    "@types/react": "^18.2.0",        
+    "@types/react-dom": "^18.2.0",     
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "vite": "^5.2.0"  
   }
 }
